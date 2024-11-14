@@ -1,0 +1,182 @@
+{"level":"info","message":"Login successful for user: testuser","timestamp":"2024-11-04T07:03:47.508Z"}
+{"level":"warn","message":"Failed login attempt for user: testuse","timestamp":"2024-11-04T07:04:02.605Z"}
+{"level":"warn","message":"Failed login attempt for user: testuse","timestamp":"2024-11-04T07:04:20.720Z"}
+{"level":"warn","message":"Failed login attempt for user: testuse","timestamp":"2024-11-04T07:07:17.287Z"}
+{"level":"warn","message":"Failed login attempt for user: bru","timestamp":"2024-11-04T07:07:25.732Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T07:12:53.722Z"}
+{"level":"info","message":"Login successful for user: testuser","timestamp":"2024-11-04T07:14:37.672Z"}
+{"level":"warn","message":"Failed login attempt for user: testuser","timestamp":"2024-11-04T07:16:35.478Z"}
+{"level":"warn","message":"Failed login attempt for user: ","timestamp":"2024-11-04T07:30:09.506Z"}
+{"level":"info","message":"Login successful for user: testuser","timestamp":"2024-11-04T08:37:43.554Z"}
+{"level":"warn","message":"Failed login attempt for user: testuser","timestamp":"2024-11-04T08:37:49.520Z"}
+{"level":"info","message":"Login successful for user: testuser","timestamp":"2024-11-04T08:38:36.130Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T08:38:47.690Z"}
+{"level":"warn","message":"Failed login attempt for user: wiz","timestamp":"2024-11-04T08:39:30.404Z"}
+{"level":"warn","message":"Failed login attempt for user: wiz","timestamp":"2024-11-04T08:40:19.277Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T08:40:23.264Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T08:47:25.208Z"}
+{"level":"warn","message":"Failed login attempt for user: wiz","timestamp":"2024-11-04T08:47:33.575Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T10:43:10.100Z"}
+{"level":"warn","message":"Failed login attempt for user: wiz","timestamp":"2024-11-04T10:43:17.096Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T10:43:24.735Z"}
+{"level":"warn","message":"Failed login attempt for user: wiz","timestamp":"2024-11-04T10:43:38.511Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T10:46:57.409Z"}
+{"level":"warn","message":"Failed login attempt for user: wiz","timestamp":"2024-11-04T10:47:12.661Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T10:49:48.468Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T10:52:57.075Z"}
+{"level":"warn","message":"Failed login attempt for user: dsd","timestamp":"2024-11-04T17:03:33.046Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T17:04:48.846Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T17:12:07.542Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T17:17:26.452Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T17:40:31.987Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T17:40:57.242Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T17:41:34.159Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-04T17:41:40.327Z"}
+{"level":"warn","message":"Failed login attempt for user: dsd","timestamp":"2024-11-04T17:41:45.037Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-05T03:16:27.357Z"}
+{"level":"warn","message":"Failed login attempt for user: wiz","timestamp":"2024-11-05T03:16:55.283Z"}
+{"level":"warn","message":"Failed login attempt for user: wiz","timestamp":"2024-11-05T03:17:03.519Z"}
+{"level":"info","message":"New user registered: email@mail.cim","timestamp":"2024-11-05T05:32:13.445Z"}
+{"level":"info","message":"Login successful for user: email@mail.cim","timestamp":"2024-11-05T05:32:23.413Z"}
+{"level":"warn","message":"Failed login attempt - user not found: tester","timestamp":"2024-11-05T05:32:38.197Z"}
+{"level":"warn","message":"Registration failed - user already exists: email@mail.cim","timestamp":"2024-11-05T05:36:12.368Z"}
+{"level":"warn","message":"Registration failed - user already exists: email@mail.cim","timestamp":"2024-11-05T05:36:13.785Z"}
+{"level":"warn","message":"Registration failed - user already exists: email@mail.cim","timestamp":"2024-11-05T05:37:13.281Z"}
+{"level":"warn","message":"Registration failed - user already exists: email@mail.cim","timestamp":"2024-11-05T05:37:13.980Z"}
+{"level":"warn","message":"Registration failed - user already exists: email@mail.cim","timestamp":"2024-11-05T05:37:14.323Z"}
+{"level":"warn","message":"Registration failed - user already exists: email@mail.cim","timestamp":"2024-11-05T05:37:14.646Z"}
+{"level":"warn","message":"Registration failed - user already exists: email@mail.cim","timestamp":"2024-11-05T05:37:14.933Z"}
+{"level":"info","message":"New user registered: email@mail.ci","timestamp":"2024-11-05T05:37:17.632Z"}
+{"level":"warn","message":"Registration failed - user already exists: wiz@gmail.com","timestamp":"2024-11-05T05:43:10.350Z"}
+{"level":"warn","message":"Registration failed - user already exists: email@mail.cim","timestamp":"2024-11-05T05:43:26.290Z"}
+{"level":"warn","message":"Failed login attempt - incorrect password for user: wiz","timestamp":"2024-11-05T05:43:39.592Z"}
+{"level":"warn","message":"Failed login attempt - incorrect password for user: wiz","timestamp":"2024-11-05T05:43:43.209Z"}
+{"level":"warn","message":"Failed login attempt - incorrect password for user: wiz","timestamp":"2024-11-05T05:43:44.201Z"}
+{"level":"warn","message":"Failed login attempt - incorrect password for user: wiz","timestamp":"2024-11-05T05:43:44.571Z"}
+{"level":"info","message":"New user registered: wiz@gmail.com","timestamp":"2024-11-05T05:48:12.754Z"}
+{"level":"info","message":"New user registered: email@mail.ci","timestamp":"2024-11-05T05:48:32.218Z"}
+{"level":"warn","message":"Failed login attempt - incorrect password for user: email@mail.ci","timestamp":"2024-11-05T05:49:02.012Z"}
+{"level":"warn","message":"Failed login attempt - incorrect password for user: email@mail.ci","timestamp":"2024-11-05T05:49:17.316Z"}
+{"level":"warn","message":"Failed login attempt - incorrect password for user: wiz","timestamp":"2024-11-05T08:08:44.269Z"}
+{"level":"warn","message":"Failed login attempt - incorrect password for user: wiz","timestamp":"2024-11-05T08:08:53.352Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-05T08:09:39.103Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-06T06:22:06.971Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-06T06:27:48.697Z"}
+{"level":"info","message":"New user registered: test@test.test","timestamp":"2024-11-06T06:29:30.790Z"}
+{"level":"warn","message":"Failed login attempt - user not found: qww","timestamp":"2024-11-06T06:34:42.907Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-06T06:37:19.041Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-06T06:42:56.794Z"}
+{"level":"warn","message":"Failed login attempt - user not found: ettt","timestamp":"2024-11-06T06:47:01.933Z"}
+{"level":"warn","message":"Failed login attempt - user not found: ettt","timestamp":"2024-11-06T06:47:02.757Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-06T06:47:15.327Z"}
+{"level":"warn","message":"Failed login attempt - user not found: ettt","timestamp":"2024-11-06T06:47:28.143Z"}
+{"level":"warn","message":"Failed login attempt - incorrect password for user: pass","timestamp":"2024-11-10T15:06:47.622Z"}
+{"level":"warn","message":"Failed login attempt - user not found: test","timestamp":"2024-11-10T15:06:52.537Z"}
+{"level":"info","message":"New user registered: a@a.c","timestamp":"2024-11-10T15:07:21.233Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-10T15:25:40.992Z"}
+{"level":"warn","message":"Failed login attempt - incorrect password for user: pass","timestamp":"2024-11-10T15:31:10.018Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-10T15:31:12.513Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-10T15:35:38.211Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-10T15:37:55.866Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-10T15:38:51.284Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-10T15:41:44.679Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-10T15:59:02.889Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-10T15:59:44.343Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-10T18:51:49.576Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T03:26:35.805Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:23:52.284Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:23:52.915Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:23:58.650Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:23:58.720Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:23:58.835Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:23:59.365Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:23:59.434Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:23:59.552Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:23:59.672Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:23:59.766Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:23:59.867Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:23:59.969Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:24:00.050Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:24:00.148Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:24:00.217Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:24:00.296Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:30:07.886Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:36:05.788Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T04:38:56.370Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-11T05:27:43.238Z"}
+{"level":"info","message":"Login successful for user: SOME@SOME.COM","timestamp":"2024-11-14T03:00:57.533Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T03:01:19.900Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T03:12:27.533Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T03:16:09.700Z"}
+{"level":"info","message":"Login successful for user: adi","timestamp":"2024-11-14T03:16:33.526Z"}
+{"level":"info","message":"Login successful for user: adi","timestamp":"2024-11-14T03:17:54.692Z"}
+{"level":"info","message":"Login successful for user: adi","timestamp":"2024-11-14T03:18:09.508Z"}
+{"level":"info","message":"Login successful for user: adi","timestamp":"2024-11-14T03:21:44.626Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T03:21:54.405Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T03:36:26.400Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T03:37:55.796Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T03:38:52.582Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T03:39:35.566Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T03:39:42.826Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T03:45:57.891Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T03:46:32.182Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T03:48:14.097Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T03:48:36.301Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T03:53:44.097Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T03:53:45.525Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T04:03:44.712Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T04:03:52.364Z"}
+{"level":"info","message":"Login successful for user: adi","timestamp":"2024-11-14T04:04:46.368Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T04:04:49.029Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T04:08:22.280Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T04:08:26.236Z"}
+{"level":"info","message":"Login successful for user: adi","timestamp":"2024-11-14T04:10:49.033Z"}
+{"level":"info","message":"Login successful for user: adi","timestamp":"2024-11-14T04:12:13.262Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T04:12:24.083Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T04:22:54.653Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T04:22:56.352Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T04:28:43.181Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T04:28:53.579Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T04:29:01.092Z"}
+{"level":"info","message":"Login successful for user: adi","timestamp":"2024-11-14T04:31:48.534Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T04:31:50.093Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T04:42:37.588Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T04:43:07.317Z"}
+{"level":"info","message":"Login successful for user: adi","timestamp":"2024-11-14T04:56:41.604Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:00:53.666Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:01:15.043Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:02:32.273Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:02:59.282Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:05:12.005Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:05:22.594Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:05:54.321Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:06:06.208Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:06:18.024Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:07:57.952Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:09:50.404Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:10:35.004Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:11:56.471Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:12:48.157Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:25:54.588Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:30:35.689Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:40:15.164Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:41:54.520Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:44:37.342Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:47:24.428Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:48:39.094Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:51:30.619Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T05:57:13.614Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T06:19:29.932Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T06:21:13.482Z"}
+{"level":"info","message":"Login successful for user: amo","timestamp":"2024-11-14T06:45:46.971Z"}
+{"level":"info","message":"Login successful for user: nigga","timestamp":"2024-11-14T06:46:05.477Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T07:12:41.177Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T07:13:19.538Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T07:16:26.309Z"}
+{"level":"info","message":"Login successful for user: adi","timestamp":"2024-11-14T07:16:35.224Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T07:16:36.483Z"}
+{"level":"info","message":"New user registered: ani@ani.ani","timestamp":"2024-11-14T07:26:25.120Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T07:55:14.552Z"}
+{"level":"warn","message":"Failed login attempt - user not found: Twst","timestamp":"2024-11-14T08:09:22.005Z"}
+{"level":"warn","message":"Failed login attempt - user not found: Test","timestamp":"2024-11-14T08:09:24.741Z"}
+{"level":"info","message":"Login successful for user: test","timestamp":"2024-11-14T08:09:34.950Z"}
