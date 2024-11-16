@@ -20,6 +20,7 @@ const io = socketIO(server, {
 
 const PORT = process.env.PORT || 80;
 const SOCKET_PORT = 5569;
+const LOCAL_IP = process.env.LOCAL_IP || localhost;
 
 // Middleware
 app.use(cors());
@@ -343,13 +344,11 @@ app.post("/api/register", async (req, res) => {
   }
 });
 
-
-
 // Start the servers
 app.listen(PORT, () => {
-  console.log(`HTTP Server running on http://10.1.4.91:${PORT}`);
+  console.log(`HTTP Server running on http://${LOCAL_IP}:${PORT}`);
 });
 
 server.listen(SOCKET_PORT, () => {
-  console.log(`Socket.IO server running on http://10.1.4.91:${SOCKET_PORT}`);
+  console.log(`Socket.IO server running on http://${LOCAL_IP}:${SOCKET_PORT}`);
 });
