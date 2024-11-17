@@ -195,3 +195,9 @@
 {"level":"warn","message":"Registration failed - user already exists: wiz@gmail.com","timestamp":"2024-11-17T07:14:55.859Z"}
 {"level":"info","message":"New user registered: wiz@gmail.com","timestamp":"2024-11-17T07:15:57.482Z"}
 {"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-17T07:16:12.765Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-17T08:09:04.614Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-17T08:16:03.440Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-17T08:27:05.407Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-17T08:28:33.313Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-17T08:32:21.537Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-17T09:41:57.064Z"}
