@@ -201,3 +201,6 @@
 {"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-17T08:28:33.313Z"}
 {"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-17T08:32:21.537Z"}
 {"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-17T09:41:57.064Z"}
+{"level":"warn","message":"Failed login attempt - user not found: test","timestamp":"2024-11-17T09:47:06.935Z"}
+{"level":"info","message":"New user registered: test@test.com","timestamp":"2024-11-17T09:47:22.905Z"}
+{"level":"info","message":"Login successful for user: test@test.com","timestamp":"2024-11-17T09:49:26.214Z"}
