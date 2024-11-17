@@ -183,3 +183,15 @@
 {"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-14T08:41:42.834Z"}
 {"level":"info","message":"Login successful for user: test","timestamp":"2024-11-16T20:41:34.741Z"}
 {"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-16T20:43:07.436Z"}
+{"level":"warn","message":"Failed login attempt - incorrect password for user: wiz","timestamp":"2024-11-17T07:12:06.279Z"}
+{"level":"warn","message":"Failed login attempt - incorrect password for user: wiz","timestamp":"2024-11-17T07:12:10.223Z"}
+{"level":"warn","message":"Failed login attempt - incorrect password for user: wiz","timestamp":"2024-11-17T07:12:11.205Z"}
+{"level":"warn","message":"Failed login attempt - user not found: test","timestamp":"2024-11-17T07:12:14.526Z"}
+{"level":"warn","message":"Failed login attempt - user not found: test","timestamp":"2024-11-17T07:12:15.063Z"}
+{"level":"warn","message":"Failed login attempt - user not found: test","timestamp":"2024-11-17T07:12:15.310Z"}
+{"level":"warn","message":"Registration failed - user already exists: wiz@gmail.com","timestamp":"2024-11-17T07:13:09.034Z"}
+{"level":"warn","message":"Registration failed - user already exists: wiz@gmail.com","timestamp":"2024-11-17T07:13:10.264Z"}
+{"level":"warn","message":"Registration failed - user already exists: wiz@gmail.com","timestamp":"2024-11-17T07:14:55.336Z"}
+{"level":"warn","message":"Registration failed - user already exists: wiz@gmail.com","timestamp":"2024-11-17T07:14:55.859Z"}
+{"level":"info","message":"New user registered: wiz@gmail.com","timestamp":"2024-11-17T07:15:57.482Z"}
+{"level":"info","message":"Login successful for user: wiz","timestamp":"2024-11-17T07:16:12.765Z"}
